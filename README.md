@@ -69,12 +69,6 @@ Data/
     ├── genre2/
     └── ...
 ```
-
-## Expected Runtime
-
-- **Augmentation Comparison**: 15-25 hours
-- **Pretrained Models Comparison**: 8-12 hours
-
 ## Results
 
 Each experiment generates:
