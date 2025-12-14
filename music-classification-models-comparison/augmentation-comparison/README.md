@@ -10,12 +10,6 @@ This experiment compares 5 different data augmentation strategies for music genr
 - **Spectrogram Noise**: Adding controlled noise to spectrograms
 - **SpecAugment**: Frequency and time masking specifically designed for audio spectrograms
 
-## Usage
-
-```bash
-cd augmentation-comparison
-python main.py
-```
 
 ## Output Files
 
@@ -24,5 +18,3 @@ python main.py
 - `crossvalidation_pairwise_tests.csv`: Statistical test results
 - `crossvalidation_comparison_results.png`: Comprehensive visualization
 
-
-See the main project README for dependencies and setup instructions.
